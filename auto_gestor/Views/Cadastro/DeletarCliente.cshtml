@@ -1,5 +1,10 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
+    ViewData["Title"] = "Apagar Aluno";
 }
+<div class="text-center">
+	<h3>Você realmente deseja apagar os dados do aluno "" do sistema?</h3>
+	<br />
+	<br />
+	<a class="btn btn-primary" asp-controller="Cadastro" asp-action="Index" role="button">Cancelar Exclusão</a>
+	<a class="btn btn-danger" asp-controller="Cadastro" asp-action="ExcluirCliente" role="button">Confirmar Exclusão</a>
+</div>
