@@ -1,71 +1,79 @@
-﻿
-@{
-    ViewData["Title"] = "Cadastros";
+﻿@{
+    ViewData["Title"] = "Cadastros"; // Define o título da página como "Cadastros".
 }
 
 <div class="text-center">
+    <!-- Centraliza o conteúdo da página. -->
 
     <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-        <a class="btn btn-success" role="button" asp-controller="Cadastro" asp-action="CriarCliente">Cadastar novo cliente</a>
+        <!-- Cria um layout flexível para os botões. -->
+        <a class="btn btn-success" role="button" asp-controller="Cadastro" asp-action="CriarCliente">Cadastar novo cliente</a> <!-- Cria um botão que redireciona para a ação "CriarCliente" no controller "Cadastro". -->
     </div>
     <br />
 
-    <h1 class="display-7">Alunos Cadastrados</h1>
-    
-<table class="table">
-    <thead>
-        <tr>
-            <th scope="col">Id</th>
-            <th scope="col">Nome</th>
-            <th scope="col">CPF</th>
-            <th scope="col">Contato</th>
-            <th scope="col">Categoria</th>
-            <th scope="col"></th>
-        </tr>
-    </thead>
-    <tbody>
+    <h1 class="display-7">Alunos Cadastrados</h1> <!-- Exibe o título da lista de alunos cadastrados. -->
 
-        <tr>
-            <th scope="row">0</th>
-            <td>Carlos</td>
-            <td>575.544.343-65</td>
-            <td>(88)23423043</td>
-            <td>A</td>
-            <td>
-				<a class ="btn btn-success" role="button" asp-controller="Cadastro" asp-action="EditarCliente">Editar</a>
-                <a class="btn btn-danger" role="button" asp-controller="Cadastro" asp-action="DeletarCliente">Deletar</a>
-            </td>
-            
-        </tr>
+    <table class="table">
+        <!-- Cria uma tabela para exibir os alunos cadastrados. -->
+        <thead>
+            <!-- Cabeçalho da tabela. -->
+            <tr>
+                <!-- Linha do cabeçalho da tabela. -->
+                <th scope="col">Id</th> <!-- Coluna para exibir o Id do aluno. -->
+                <th scope="col">Nome</th> <!-- Coluna para exibir o nome do aluno. -->
+                <th scope="col">CPF</th> <!-- Coluna para exibir o CPF do aluno. -->
+                <th scope="col">Contato</th> <!-- Coluna para exibir o contato do aluno. -->
+                <th scope="col">Categoria</th> <!-- Coluna para exibir a categoria do aluno. -->
+                <th scope="col"></th> <!-- Coluna vazia para os botões de edição e exclusão. -->
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Corpo da tabela onde os dados dos alunos são exibidos. -->
+            <!-- Exemplo de um aluno cadastrado -->
+            <tr>
+                <!-- Linha com os dados de um aluno. -->
+                <th scope="row">0</th> <!-- Exibe o Id do aluno. -->
+                <td>Carlos</td> <!-- Exibe o nome do aluno. -->
+                <td>575.544.343-65</td> <!-- Exibe o CPF do aluno. -->
+                <td>(88)23423043</td> <!-- Exibe o contato do aluno. -->
+                <td>A</td> <!-- Exibe a categoria do aluno. -->
+                <td>
+                    <!-- Coluna com os botões de edição e exclusão. -->
+                    <a class="btn btn-success" role="button" asp-controller="Cadastro" asp-action="EditarCliente">Editar</a> <!-- Botão para editar o aluno. -->
+                    <a class="btn btn-danger" role="button" asp-controller="Cadastro" asp-action="DeletarCliente">Deletar</a> <!-- Botão para deletar o aluno. -->
+                </td>
+            </tr>
 
-        <tr>
-            <th scope="row">1</th>
-            <td>Jacob</td>
-            <td>575.544.343-65</td>
-            <td>(88)99344575</td>
-            <td>B</td>
-            <td>
-                <a class="btn btn-success" role="button" asp-controller="Cadastro" asp-action="EditarCliente">Editar</a>
-                <a class="btn btn-danger" role="button" asp-controller="Cadastro" asp-action="DeletarCliente">Deletar</a>
-                
-            </td>
-        </tr>
+            <!-- Outro aluno cadastrado -->
+            <tr>
+                <!-- Linha com os dados de outro aluno. -->
+                <th scope="row">1</th> <!-- Exibe o Id do aluno. -->
+                <td>Jacob</td> <!-- Exibe o nome do aluno. -->
+                <td>575.544.343-65</td> <!-- Exibe o CPF do aluno. -->
+                <td>(88)99344575</td> <!-- Exibe o contato do aluno. -->
+                <td>B</td> <!-- Exibe a categoria do aluno. -->
+                <td>
+                    <!-- Coluna com os botões de edição e exclusão. -->
+                    <a class="btn btn-success" role="button" asp-controller="Cadastro" asp-action="EditarCliente">Editar</a> <!-- Botão para editar o aluno. -->
+                    <a class="btn btn-danger" role="button" asp-controller="Cadastro" asp-action="DeletarCliente">Deletar</a> <!-- Botão para deletar o aluno. -->
+                </td>
+            </tr>
 
-        <tr>
-            <th scope="row">2</th>
-            <td>Larry</td>
-            <td>375.544.343-65</td>
-            <td>(85)36732838</td>
-            <td>AB</td>
-            <td>
-                <a class="btn btn-success" role="button" asp-controller="Cadastro" asp-action="EditarCliente">Editar</a>
-                <a class="btn btn-danger" role="button" asp-controller="Cadastro" asp-action="DeletarCliente">Deletar</a>
-            </td>
-        </tr>
+            <!-- Outro aluno cadastrado -->
+            <tr>
+                <!-- Linha com os dados de mais um aluno. -->
+                <th scope="row">2</th> <!-- Exibe o Id do aluno. -->
+                <td>Larry</td> <!-- Exibe o nome do aluno. -->
+                <td>375.544.343-65</td> <!-- Exibe o CPF do aluno. -->
+                <td>(85)36732838</td> <!-- Exibe o contato do aluno. -->
+                <td>AB</td> <!-- Exibe a categoria do aluno. -->
+                <td>
+                    <!-- Coluna com os botões de edição e exclusão. -->
+                    <a class="btn btn-success" role="button" asp-controller="Cadastro" asp-action="EditarCliente">Editar</a> <!-- Botão para editar o aluno. -->
+                    <a class="btn btn-danger" role="button" asp-controller="Cadastro" asp-action="DeletarCliente">Deletar</a> <!-- Botão para deletar o aluno. -->
+                </td>
+            </tr>
 
-   
-
-    </tbody>
-</table>
+        </tbody>
+    </table>
 </div>
-

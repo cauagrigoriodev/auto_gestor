@@ -1,9 +1,10 @@
-﻿@model Funcionario
+﻿@model Funcionario  // Define que o modelo de dados utilizado nesta página será o "Funcionario", que contém informações como o nome do funcionário.
+
 @{
-    ViewData["Title"] = "Pagina Inicial";
+    ViewData["Title"] = "Pagina Inicial";  <!-- Define o título da página como "Pagina Inicial", que será exibido na aba do navegador ou no cabeçalho da página. -->
 }
 
-<div class="text-center">
-    <h1 class="display-7">Bem Vindo, @Model.Name</h1>
-    <p>Olá escolha o serviço que deseja inicializar.</p>
+<div class="text-center">  <!-- Cria uma seção centralizada de conteúdo na página. -->
+    <h1 class="display-7">Bem Vindo, @Model.Name</h1>  <!-- Exibe uma mensagem de boas-vindas ao funcionário, usando o nome do funcionário proveniente do modelo "Funcionario". -->
+    <p>Olá escolha o serviço que deseja inicializar.</p>  <!-- Exibe uma mensagem convidando o funcionário a escolher um serviço. -->
 </div>

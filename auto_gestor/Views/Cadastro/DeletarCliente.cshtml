@@ -1,10 +1,12 @@
 ﻿@{
-    ViewData["Title"] = "Apagar Aluno";
+	ViewData["Title"] = "Apagar Aluno"; // Define o título da página como "Apagar Aluno".
 }
 <div class="text-center">
-	<h3>Você realmente deseja apagar os dados do aluno "" do sistema?</h3>
-	<br />
-	<br />
-	<a class="btn btn-primary" asp-controller="Cadastro" asp-action="Index" role="button">Cancelar Exclusão</a>
-	<a class="btn btn-danger" asp-controller="Cadastro" asp-action="ExcluirCliente" role="button">Confirmar Exclusão</a>
+	<!-- Centraliza o conteúdo da página. -->
+	<h3>Você realmente deseja apagar os dados do aluno "" do sistema?</h3> <!-- Exibe uma mensagem perguntando se o usuário tem certeza de que quer apagar os dados do aluno. -->
+	<br /> <!-- Adiciona uma quebra de linha para espaçamento. -->
+	<br /> <!-- Adiciona uma segunda quebra de linha para mais espaçamento. -->
+
+	<a class="btn btn-primary" asp-controller="Cadastro" asp-action="Index" role="button">Cancelar Exclusão</a> <!-- Cria um botão que cancela a exclusão e redireciona para a ação "Index" no controller "Cadastro". -->
+	<a class="btn btn-danger" asp-controller="Cadastro" asp-action="ExcluirCliente" role="button">Confirmar Exclusão</a> <!-- Cria um botão que confirma a exclusão e redireciona para a ação "ExcluirCliente" no controller "Cadastro". -->
 </div>

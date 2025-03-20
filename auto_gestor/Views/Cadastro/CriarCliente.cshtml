@@ -1,30 +1,36 @@
 ﻿@{
-    ViewData["Title"] = "Cadastro de Aluno";
+    ViewData["Title"] = "Cadastro de Aluno"; // Define o título da página como "Cadastro de Aluno", que será exibido no cabeçalho da página.
 }
+
 <div class="text-center">
-    <h1 class="display-7">Cadastrar Aluno</h1>
+    <h1 class="display-7">Cadastrar Aluno</h1> <!-- Exibe o título principal da página "Cadastrar Aluno" no centro da página -->
 </div>
+
+<!-- Início do formulário para cadastro de um novo aluno -->
 <form>
-    
+    <!-- Campo de entrada para o nome do aluno -->
     <div class="form-group">
-        <label for="Nome">Nome Completo</label>
-        <input type="text" class="form-control" placeholder="NOME COMPLETO DO ALUNO">       
+        <label for="Nome">Nome Completo</label> <!-- Rótulo para o campo de nome -->
+        <input type="text" class="form-control" placeholder="NOME COMPLETO DO ALUNO"> <!-- Campo de entrada para o nome do aluno -->
     </div>
 
+    <!-- Campo de entrada para o CPF do aluno -->
     <div class="form-group">
-        <label for="CPF">CPF</label>
-        <input type="text" class="form-control" placeholder="CPF DO ALUNO">       
+        <label for="CPF">CPF</label> <!-- Rótulo para o campo de CPF -->
+        <input type="text" class="form-control" placeholder="CPF DO ALUNO"> <!-- Campo de entrada para o CPF do aluno -->
     </div>
 
+    <!-- Campo de entrada para a categoria da habilitação do aluno -->
     <div class="form-group">
-        <label for="Categoria">Categoria da Habilitação</label>
-        <input type="text" class="form-control" placeholder="QUAL CATEGORIA O ALUNO SE MATRICULOU">       
+        <label for="Categoria">Categoria da Habilitação</label> <!-- Rótulo para o campo de categoria da habilitação -->
+        <input type="text" class="form-control" placeholder="QUAL CATEGORIA O ALUNO SE MATRICULOU"> <!-- Campo de entrada para a categoria da habilitação -->
     </div>
+
     <br />
+
+    <!-- Botão para enviar o formulário e cadastrar o aluno -->
     <button type="submit" class="btn btn-primary">Cadastrar Aluno</button>
+
+    <!-- Link para voltar à página de índice de cadastro -->
     <a class="btn btn-secondary" asp-controller="Cadastro" asp-action="Index" role="button">Voltar</a>
-    
 </form>
-
-
-
