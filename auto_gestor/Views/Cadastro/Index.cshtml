@@ -2,10 +2,16 @@
 @{
     ViewData["Title"] = "Cadastros";
 }
+
 <div class="text-center">
-    <h1 class="display-7">Cadastro dos Alunos.</h1>
-    <l1 class="display-7">Aqui estará as informações dos Alunos.</l1>
-</div>
+
+    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <a class="btn btn-success" role="button" asp-controller="Cadastro" asp-action="CriarCliente">Cadastar novo cliente</a>
+    </div>
+    <br />
+
+    <h1 class="display-7">Alunos Cadastrados</h1>
+    
 <table class="table">
     <thead>
         <tr>
@@ -14,6 +20,7 @@
             <th scope="col">CPF</th>
             <th scope="col">Contato</th>
             <th scope="col">Categoria</th>
+            <th scope="col"></th>
         </tr>
     </thead>
     <tbody>
@@ -24,6 +31,11 @@
             <td>575.544.343-65</td>
             <td>(88)23423043</td>
             <td>A</td>
+            <td>
+				<a class ="btn btn-success" role="button" asp-controller="Cadastro" asp-action="EditarCliente">Editar</a>
+                <button type="button" class="btn btn-danger">Deletar</button>
+            </td>
+            
         </tr>
 
         <tr>
@@ -32,6 +44,10 @@
             <td>575.544.343-65</td>
             <td>(88)99344575</td>
             <td>B</td>
+            <td>
+                <a class="btn btn-success" role="button" asp-controller="Cadastro" asp-action="EditarCliente">Editar</a>
+                <button type="button" class="btn btn-danger">Deletar</button>
+            </td>
         </tr>
 
         <tr>
@@ -40,11 +56,15 @@
             <td>375.544.343-65</td>
             <td>(85)36732838</td>
             <td>AB</td>
+            <td>
+                <a class="btn btn-success" role="button" asp-controller="Cadastro" asp-action="EditarCliente">Editar</a>
+                <button type="button" class="btn btn-danger">Deletar</button>
+            </td>
         </tr>
 
    
 
     </tbody>
 </table>
-
+</div>
 

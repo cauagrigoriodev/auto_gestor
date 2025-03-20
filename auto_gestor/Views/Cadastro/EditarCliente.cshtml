@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Editar Aluno";
+}
+<div class="text-center">
+    <h1 class="display-7">Editar Informações</h1>
+</div>
+<form>
+
+    <div class="form-group">
+        <label for="Nome">Nome Completo</label>
+        <input type="text" class="form-control" placeholder="NOME COMPLETO DO ALUNO">
+    </div>
+
+    <div class="form-group">
+        <label for="CPF">CPF</label>
+        <input type="text" class="form-control" placeholder="CPF DO ALUNO">
+    </div>
+
+    <div class="form-group">
+        <label for="Categoria">Categoria da Habilitação</label>
+        <input type="text" class="form-control" placeholder="QUAL CATEGORIA O ALUNO SE MATRICULOU">
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Editar Informações</button>
+    <a class="btn btn-secondary" asp-controller="Cadastro" asp-action="Index" role="button">Voltar</a>
+
+</form>

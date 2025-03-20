@@ -32,3 +32,4 @@ C:\Users\cauag\OneDrive\Documentos\Estudos\Faculdade\Projeto de Extensão\auto_g
 C:\Users\cauag\OneDrive\Documentos\Estudos\Faculdade\Projeto de Extensão\auto_gestor\auto_gestor\obj\Debug\net8.0\auto_gestor.pdb
 C:\Users\cauag\OneDrive\Documentos\Estudos\Faculdade\Projeto de Extensão\auto_gestor\auto_gestor\obj\Debug\net8.0\auto_gestor.genruntimeconfig.cache
 C:\Users\cauag\OneDrive\Documentos\Estudos\Faculdade\Projeto de Extensão\auto_gestor\auto_gestor\obj\Debug\net8.0\ref\auto_gestor.dll
+C:\Users\cauag\OneDrive\Documentos\Estudos\Faculdade\Projeto de Extensão\auto_gestor\auto_gestor\obj\Debug\net8.0\auto_gestor.sourcelink.json
