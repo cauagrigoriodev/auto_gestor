@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\views\\cadastro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\views\\cadastro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\views\\cadastro\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\views\\cadastro\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\controllers\\servicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\controllers\\servicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\views\\cadastro\\criarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\views\\cadastro\\criarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\auto_gestor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\auto_gestor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\views\\cadastro\\deletarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\views\\cadastro\\deletarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\views\\cadastro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\views\\cadastro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\controllers\\servicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\controllers\\servicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|c:\\users\\cauag\\onedrive\\documentos\\estudos\\faculdade\\projeto de extens\u00E3o\\auto_gestor\\auto_gestor\\views\\cadastro\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9807C77D-9DF9-493A-945C-81B006A2810F}|auto_gestor\\auto_gestor.csproj|solutionrelative:auto_gestor\\views\\cadastro\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,105 +42,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DeletarCliente.cshtml",
               "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Views\\Cadastro\\DeletarCliente.cshtml",
               "RelativeDocumentMoniker": "auto_gestor\\Views\\Cadastro\\DeletarCliente.cshtml",
               "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Views\\Cadastro\\DeletarCliente.cshtml",
               "RelativeToolTip": "auto_gestor\\Views\\Cadastro\\DeletarCliente.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-19T13:24:14.563Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Views\\Cadastro\\Index.cshtml",
               "RelativeDocumentMoniker": "auto_gestor\\Views\\Cadastro\\Index.cshtml",
               "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Views\\Cadastro\\Index.cshtml",
               "RelativeToolTip": "auto_gestor\\Views\\Cadastro\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-19T20:34:38.434Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EditarCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Views\\Cadastro\\EditarCliente.cshtml",
-              "RelativeDocumentMoniker": "auto_gestor\\Views\\Cadastro\\EditarCliente.cshtml",
-              "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Views\\Cadastro\\EditarCliente.cshtml",
-              "RelativeToolTip": "auto_gestor\\Views\\Cadastro\\EditarCliente.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T20:32:29.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CriarCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Views\\Cadastro\\CriarCliente.cshtml",
-              "RelativeDocumentMoniker": "auto_gestor\\Views\\Cadastro\\CriarCliente.cshtml",
-              "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Views\\Cadastro\\CriarCliente.cshtml",
-              "RelativeToolTip": "auto_gestor\\Views\\Cadastro\\CriarCliente.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T13:22:57.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CadastroController.cs",
-              "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Controllers\\CadastroController.cs",
-              "RelativeDocumentMoniker": "auto_gestor\\Controllers\\CadastroController.cs",
-              "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Controllers\\CadastroController.cs",
-              "RelativeToolTip": "auto_gestor\\Controllers\\CadastroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAtwAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T13:20:40.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "auto_gestor\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "auto_gestor\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T01:58:12.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PagamentosController.cs",
-              "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Controllers\\PagamentosController.cs",
-              "RelativeDocumentMoniker": "auto_gestor\\Controllers\\PagamentosController.cs",
-              "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Controllers\\PagamentosController.cs",
-              "RelativeToolTip": "auto_gestor\\Controllers\\PagamentosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T01:53:03.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "ServicosController.cs",
               "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Controllers\\ServicosController.cs",
               "RelativeDocumentMoniker": "auto_gestor\\Controllers\\ServicosController.cs",
               "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Controllers\\ServicosController.cs",
               "RelativeToolTip": "auto_gestor\\Controllers\\ServicosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:53:42.152Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "auto_gestor",
+              "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\auto_gestor.csproj",
+              "RelativeDocumentMoniker": "auto_gestor\\auto_gestor.csproj",
+              "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\auto_gestor.csproj",
+              "RelativeToolTip": "auto_gestor\\auto_gestor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T12:29:22.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Program.cs",
+              "RelativeDocumentMoniker": "auto_gestor\\Program.cs",
+              "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Program.cs",
+              "RelativeToolTip": "auto_gestor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T01:52:41.774Z"
+              "WhenOpened": "2025-03-20T12:28:59.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "auto_gestor\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Data\\BancoContext.cs",
+              "RelativeToolTip": "auto_gestor\\Data\\BancoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:04:55.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Models\\ClienteModel.cs",
+              "RelativeDocumentMoniker": "auto_gestor\\Models\\ClienteModel.cs",
+              "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Models\\ClienteModel.cs",
+              "RelativeToolTip": "auto_gestor\\Models\\ClienteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:00:37.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Views\\Cadastro\\EditarCliente.cshtml",
+              "RelativeDocumentMoniker": "auto_gestor\\Views\\Cadastro\\EditarCliente.cshtml",
+              "ToolTip": "C:\\Users\\cauag\\OneDrive\\Documentos\\Estudos\\Faculdade\\Projeto de Extens\u00E3o\\auto_gestor\\auto_gestor\\Views\\Cadastro\\EditarCliente.cshtml",
+              "RelativeToolTip": "auto_gestor\\Views\\Cadastro\\EditarCliente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T20:32:29.474Z",
+              "EditorCaption": ""
             }
           ]
         }
